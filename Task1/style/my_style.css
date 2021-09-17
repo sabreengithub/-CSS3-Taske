@@ -1,0 +1,32 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: rgb(221, 24, 24);
+}
+
+.my_p {
+    color: rgb(12, 14, 11);
+    font-family: verdana;
+}
+
+
+/*
+
+    ._my-div{ }       // valid
+    
+    .-my-div{ }      // Not valid
+    
+    .12my-div{ }     // Not valid
+    
+    .% my-div{ }     // Not valid 
+    
+    .@my-div{ }      // Not valid 
+    
+    .my @div{ }      // Not valid 
+  
+    ._my78div{ }     // valid
+   
+    -div{ }          // valid
+ */
