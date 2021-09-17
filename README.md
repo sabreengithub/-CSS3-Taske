@@ -1,2 +1,2 @@
-# CSS3-Taske
+# CSS3-Tasks
 Course learn CSS3
