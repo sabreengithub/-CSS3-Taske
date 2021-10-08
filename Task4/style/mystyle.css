@@ -1,0 +1,28 @@
+body {
+    background-image: url("../images/image2.jpg");
+}
+
+div {
+    color: white;
+    background-attachment: fixed;
+    height: 200px;
+    width: 200px;
+    font-size: 12px;
+    margin: 5px;
+    padding: 10px;
+}
+
+.bg1 {
+    color: rgb(227, 245, 124);
+    background-image: url("../images/image1.jpg");
+}
+
+.bg2 {
+    color: white;
+    background-image: url("../images/image3.jpg");
+}
+
+.bg3 {
+    color: white;
+    background-image: url("../images/image4.jpg");
+}
