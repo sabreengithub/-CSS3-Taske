@@ -1,0 +1,13 @@
+.my-div {
+    background-color: rgb(228, 225, 225);
+    padding: 10px;
+    border-left: 5px solid red;
+    padding: 10px;
+    margin: 10px;
+}
+
+.my-span {
+    color: red;
+}
+
+
