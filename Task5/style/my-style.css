@@ -1,0 +1,39 @@
+.div1.artical1,
+.div2.artical2,
+.div3.artical3 {
+    font-size: 16px;
+    height: 350px;
+    width: 300px;
+}
+
+.div1.artical1 {
+    border-style: solid;
+    border-color: red;
+    border-width: 5px;
+    margin: 10px;
+    padding: 15px 20px;
+    float: left;
+}
+
+.div2.artical2 {
+    background-color: rgb(24, 3, 24);
+    color: white;
+    border-style: hidden dotted hidden dashed;
+    border-color: red;
+    border-width: 5px;
+    margin: 15px 5px;
+    padding: 15px 20px;
+    float: left;
+}
+
+.div3.artical3 {
+    background-color: rgb(155, 127, 155);
+    color: white;
+    border-style: dashed hidden solid;
+    border-color: red;
+    border-width: 5px;
+    margin-top: 30px;
+    margin-left: 5px;
+    padding: 30px 35px 0px 20px;
+    float: left;
+}
